@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.5.7",
-  "file": "LDoE-Test-v1.5.7.apk",
-  "sha256": "dbbcc04867e79b460e5b7db9521512daf17f8f4356eda56477da2680444a5cc1",
-  "notes": "Test APK update"
+  "versionName": "1.5.9",
+  "sha256": "09062afc096d81f3780518448021a24aa47a17183c5d1d34c0fa469c92531910",
+  "versionCode": 17,
+  "notes": "内置更新地址，打开 App 即可检查新版。\n更新弹窗新增「本次更新」，可选择稍后再说。",
+  "file": "LDoE-ItemCodes-v1.5.9.apk"
 }
