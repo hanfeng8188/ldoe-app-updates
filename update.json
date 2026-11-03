@@ -1,7 +1,7 @@
 {
-  "versionName": "1.5.9",
-  "sha256": "09062afc096d81f3780518448021a24aa47a17183c5d1d34c0fa469c92531910",
-  "versionCode": 17,
-  "notes": "内置更新地址，打开 App 即可检查新版。\n更新弹窗新增「本次更新」，可选择稍后再说。",
-  "file": "LDoE-ItemCodes-v1.5.9.apk"
+  "versionName": "1.6.0",
+  "file": "LDoE-ItemCodes-v1.6.0.apk",
+  "notes": "界面换为炭灰暖橙配色。\n桌面图标换为荒野手册。",
+  "sha256": "b7085b26a263487fae7b7927eb9aca90dd50e3665c9a9220dd9d054955b28cbd",
+  "versionCode": 18
 }
